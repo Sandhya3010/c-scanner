@@ -110,5 +110,5 @@ int main() {
     printAttributeTable();
     printAuxiliaryTable();
 
-    return 0;
+ return 0;
 }
